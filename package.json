@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/DX-MODS/bixby-md#readme",
   "dependencies": {  
-    "javascript-obfuscator": "2.8.0"
+    "javascript-obfuscator": "2.8.0",
+    "js-beautify": "1.15.1"
   }
 }
