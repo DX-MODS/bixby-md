@@ -1,0 +1,30 @@
+{
+  "name": "bixby-md",
+  "version": "2.4.0",
+  "description": "A library For Many External feature for whatsbixby",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DX-MODS/bixby-md.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot"
+  ],
+  "author": "DX-MODS",
+  "developer": "ZIYAN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DX-MODS/bixby-md/issues"
+  },
+  "homepage": "https://github.com/DX-MODS/bixby-md#readme",
+  "dependencies": {  
+    "javascript-obfuscator": "2.8.0"
+  }
+}
